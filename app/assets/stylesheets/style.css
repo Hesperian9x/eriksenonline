@@ -1,0 +1,75 @@
+/*Navigation Styles */
+body{
+  background:rgb(240, 240, 240);
+}
+.navigation ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.navigation li {
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 13px;
+}
+.navigation li a:link{
+  text-decoration:none;
+  color:black;
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 20px;
+}
+.navigation .logo a:link{
+  text-decoration:none;
+  color: red;
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: 4px;
+}
+.navigation .logo a:visited{
+  text-decoration:none;
+  color: Black;
+}
+.navigation li a:visited{
+  text-decoration:none;
+  color:black;
+}
+.navigation li a:active{
+  text-decoration:none;
+  color:blue;
+}
+
+/*Navigation Styles */
+
+/*Banners */
+#banner{
+  text-align: center;
+  font-weight: 300;
+  font-size: 18px;
+  font-family: "Tomes New Roman";
+  letter-spacing: 1px;
+  padding: 25px 0px 30px 0px;
+  border:0.01% solid black;
+  color: blue;
+  border-radius: 8px;
+  height: 100%;
+  width: 100%;
+}
+#bannerlanding{
+  text-align: center;
+  font-weight: 300;
+  font-size: 48px;
+  font-family: "Tomes New Roman";
+  letter-spacing: 1px;
+  padding: 25px 0px 30px 0px;
+  border:0.01% solid black;
+  color: blue;
+  border-radius: 8px;
+  height: 100%;
+  width: 100%;
+}
+/*Banners */
+
+#background{
+  background-color:black;
+}

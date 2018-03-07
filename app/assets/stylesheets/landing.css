@@ -12,19 +12,8 @@ body{
   letter-spacing: 1px;
   padding: 15px;
 }
-#banner{
-  text-align: center;
-  font-weight: 300;
-  font-size: 48px;
-  font-family: "Tomes New Roman";
-  letter-spacing: 1px;
-  padding: 25px 0px 30px 0px;
-  border:0.01% solid black;
-  color: blue;
-  border-radius: 8px;
-  height: 100%;
-  width: 100%;
-}
+
+
 #body{
   text-align: center;
   font-weight: 100;
